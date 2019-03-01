@@ -1,0 +1,26 @@
+{
+  "name": "azurefunctions-cognitiveservices-faceemotion-demo",
+  "version": "0.1.0",
+  "description": "A simple Azure Function App that uses Cognitive Services to determine the emotions of faces in pictures. This was demoed at Knight Hacks 2019!",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerLeonhardt/AzureFunctions-CognitiveServices-FaceEmotion-Demo.git"
+  },
+  "keywords": [
+    "Azure"
+  ],
+  "author": "Tyler Leonhardt & Isabela Moreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TylerLeonhardt/AzureFunctions-CognitiveServices-FaceEmotion-Demo/issues"
+  },
+  "homepage": "https://github.com/TylerLeonhardt/AzureFunctions-CognitiveServices-FaceEmotion-Demo#readme"
+}
